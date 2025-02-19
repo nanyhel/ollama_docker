@@ -12,7 +12,7 @@ Este proyecto utiliza Docker Compose para configurar y ejecutar un contenedor co
 1. Clona este repositorio:
 
     ```bash
-    git clone git@github.com:nanyhel/ollama_docker.git
+    git clone https://github.com/nanyhel/ollama_docker.git
     cd ollama_docker
     ```
 
